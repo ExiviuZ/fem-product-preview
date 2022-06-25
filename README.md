@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Mobile Preview
 
-![](./screenshots/product-preview-mobile.jpeg.jpeg)
+![](./screenshots/product-preview-mobile.jpeg)
 
 ### Links
 
