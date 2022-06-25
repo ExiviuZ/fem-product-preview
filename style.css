@@ -158,7 +158,10 @@ body {
   .desktop-bg {
     display: none;
   }
-
+.container__description {
+  line-height: 1.7;
+  width: 100%;
+}
   .mobile-bg {
     display: block;
   }
